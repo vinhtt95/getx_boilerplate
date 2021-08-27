@@ -1,7 +1,14 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/vinhtt95/getx_boilerplate">
     <img src="assets/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -9,14 +16,14 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/vinhtt95/getx_boilerplate"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/vinhtt95/getx_boilerplate">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/vinhtt95/getx_boilerplate/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/vinhtt95/getx_boilerplate/issues">Request Feature</a>
   </p>
 
 
@@ -52,10 +59,8 @@
 
 # Giới thiệu
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
-
+Boilerplate này được tạo ra dựa trên nhu cầu thực tế khi thực hiện các dự án trước đó. Vì vậy, boilerplate sẽ được cập nhật thường xuyên.
+Những chức năng có ở boilerplate là những chức năng mặc định cần có đối với mỗi dự án.
 <!-- GETTING STARTED -->
 
 # Bắt đầu
@@ -187,26 +192,26 @@ data/
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/vinhtt95/repo.svg?style=for-the-badge
 
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
+[contributors-url]: https://github.com/vinhtt95/getx_boilerplate/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/vinhtt95/repo.svg?style=for-the-badge
 
-[forks-url]: https://github.com/github_username/repo_name/network/members
+[forks-url]: https://github.com/vinhtt95/getx_boilerplate/network/members
 
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/vinhtt95/repo.svg?style=for-the-badge
 
-[stars-url]: https://github.com/github_username/repo_name/stargazers
+[stars-url]: https://github.com/vinhtt95/getx_boilerplate/stargazers
 
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/vinhtt95/repo.svg?style=for-the-badge
 
-[issues-url]: https://github.com/github_username/repo_name/issues
+[issues-url]: https://github.com/vinhtt95/getx_boilerplate/issues
 
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/vinhtt95/repo.svg?style=for-the-badge
 
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[license-url]: https://github.com/vinhtt95/getx_boilerplate/blob/master/LICENSE.txt
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 
-[linkedin-url]: https://linkedin.com/in/github_username
+[linkedin-url]: https://linkedin.com/in/vinhtt95
