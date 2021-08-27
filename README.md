@@ -38,7 +38,7 @@
     </li>
     <li><a href="#Các-chức-năng">Các chức năng</a></li>
     <li><a href="#Pubs--Tool-đã-dùng">Pubs & Tools đã dùng</a></li>
-    <li><a href="#Cấu-trúc-thư-mục">Cấu trức thư mục</a>
+    <li><a href="#Cấu-trúc-thư-mục">Cấu trúc thư mục</a>
       <ul>
         <li><a href="#Data">Data</a></li>
       </ul>
@@ -182,9 +182,8 @@ data/
 
 ## Acknowledgements
 
-* []()
-* []()
-* []()
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+* [Best-README-Template](https://github.com/othneildrew/Best-README-Template#built-with)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
