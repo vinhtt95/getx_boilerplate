@@ -5,7 +5,7 @@
     <img src="assets/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Flutter GetX Boilerplate</h3>
+  <h3 align="center">Flutter GetX Boilerplate</h3>
   <p align="center">
     project_description
     <br />
@@ -24,7 +24,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary><h2 style="display: inline-block">Mục lục</h2></summary>
+  <summary>Mục lục</summary>
   <ol>
     <li>
       <a href="#Giới-thiệu">Giới thiệu</a>
